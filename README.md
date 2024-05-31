@@ -1,2 +1,2 @@
-# BSG-Demo-2024-Rhodes-CS
-Quick Git Demo for a BSG guest lecture
+# BSG-Static-Sites-2024-Demo
+Quick Demo of Static Sites
